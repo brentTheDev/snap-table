@@ -1,0 +1,17 @@
+table {
+	border-collapse: collapse;
+}
+
+table, td, th {
+	border: 1px solid black;
+}
+
+.header {
+	background-color: lightgrey;
+}
+
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: justify-all;
+}
